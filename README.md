@@ -10,7 +10,7 @@ Abaixo estão as telas principais do aplicativo em funcionamento.
 
 | | |
 |:---:|:---:|
-| ![Tela do Aplicativo 1](./screenshots/tela-1.png) | ![Tela do Aplicativo 2](./screenshots/tela-2.png) |
+| ![Tela do Aplicativo 1](./screenshots/tela-1.jpg) | ![Tela do Aplicativo 2](./screenshots/tela-2.jpg) |
 
 
 ## 🚀 Como Executar o Projeto
