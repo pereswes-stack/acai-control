@@ -2,7 +2,7 @@
 
 ## 🎯 Propósito do Aplicativo
 
-O **Açaí Control** é um aplicativo mobile simples, desenvolvido em React Native, para auxiliar pequenos negócios locais, como a "Açaí do Bairro", na gestão de suas operações diárias. O objetivo é substituir o controle manual de vendas e estoque por uma solução digital, offline e fácil de usar, reduzindo erros e otimizando a gestão de insumos.
+O **Açaí Control** é um aplicativo mobile simples, desenvolvido em React Native, para auxiliar uma pequena açaíteria no bairro na gestão de suas operações diárias. O objetivo é substituir o controle manual de vendas e estoque por uma solução digital, offline e fácil de usar, reduzindo erros e otimizando a gestão de insumos.
 
 ## 📸 Telas do App
 
