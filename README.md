@@ -19,7 +19,7 @@ Para executar este projeto, você precisará ter o [Node.js](https://nodejs.org/
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/pereswes-stack/acai-control.git](https://github.com/SEU-USUARIO/acai-control.git)
+git clone [https://github.com/pereswes-stack/acai-control.git](https://github.com/pereswes-stack/acai-control.git)
 
 # 2. Navegue até a pasta do projeto
 cd acai-control
